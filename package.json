@@ -1,0 +1,19 @@
+{
+  "name": "easy-responsive-tabs",
+  "version": "0.0.1",
+  "description": "Easy Responsive Tabs to Accordion =================================",
+  "main": "js/easyResponsiveTabs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibrows/Easy-Responsive-Tabs-to-Accordion.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ibrows/Easy-Responsive-Tabs-to-Accordion/issues"
+  },
+  "homepage": "https://github.com/ibrows/Easy-Responsive-Tabs-to-Accordion#readme"
+}
