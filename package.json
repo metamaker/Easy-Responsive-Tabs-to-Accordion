@@ -1,6 +1,6 @@
 {
   "name": "easy-responsive-tabs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Easy Responsive Tabs to Accordion =================================",
   "main": "js/easyResponsiveTabs.js",
   "scripts": {
